@@ -1,7 +1,7 @@
 # 🧾 Bank Loan Approval & Risk Analysis Dashboard with POWERBI
 
 ## 📌 Overview
-This Power BI project analyzes loan application data to uncover trends in approval rates, financial risk profiles, and repayment behavior.
+•	This project analyzes historical bank loan application data to uncover insights about loan approvals, customer risk, and financial patterns. It uses Power BI to help banks make data-driven decisions in loan processing and risk evaluation.
 
 The dashboard consists of **3 interactive pages**:
 
@@ -63,5 +63,6 @@ I'm an aspiring data analyst with a strong focus on financial and risk analytics
 - Visual storytelling
 - Business insight generation
 
-Feel free to connect with me on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/marktheanalyst103/)) or contact me via [marktheanalyst103@gmail.com].
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/marktheanalyst103/) or contact me via [email](mailto:marktheanalyst103@gmail.com).
+
 
