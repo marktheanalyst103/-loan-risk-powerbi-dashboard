@@ -23,26 +23,35 @@ The dashboard consists of **3 interactive pages**:
 ## 🔍 Key Questions Answered
 
 ### Page 1: Loan Approval Overview
-- How many loans were submitted and approved?
-- How does approval rate vary by income, credit score, and age?
-- What are the year-over-year trends in approvals?
+•	How many loan applications were submitted in total?
+•	What is the average approval rate across all applications?
+•	What are the average financial traits of the applicants?
+•	How does annual income impact loan approval rate?
+•	What credit score ranges are most common among approved applicants?
+•	Which age groups have higher or lower approval rates?
+•	How have application and approval trends changed over the years?
+
 
 ### Page 2: Risk & Financial Behavior
-- Which credit score ranges are most likely to default?
-- How does employment status impact loan risk?
-- Which loan purposes show higher financial risk?
+•	Which employment statuses have the highest number of previous loan defaults?
+•	What is the approval rate across different loan purposes when segmented by employment status?
+•	What’s the average risk score, default count, and debt-to-income ratio for each loan purpose?
+•	How does credit score affect loan approvals and denials?
 
 ### Page 3: Customer Segments & Repayment
-- How do different loan amounts affect monthly payments?
-- What are the average financial characteristics by customer segment?
-- How does education or marital status impact approval?
+•	What are the average loan terms across the applicant pool?
+•	How does credit score influence the interest rate offered?
+•	Which employment status group contributes the most to total monthly loan payments?
+•	How do education level and marital status affect approval rates?
+•	Which loan amount categories carry the highest monthly payment obligations?
+
 
 ---
 
 ## 📁 Deliverables
 
-- `Loan_Analysis_Report.pbix` – Power BI dashboard file
-- `Portfolio_Report.docx` – Written analysis, business questions, and key takeaways
+- `4th Portfolio - Bank Loan Approval & Risk Analysis Dashboard with Power BI.pbix` – Power BI dashboard file
+- `4th Portfolio - Bank Loan Approval & Risk Analysis Dashboard with Power BI.docx` – Written analysis, business questions, and key takeaways
 - `/images` – Visual previews of the dashboard
 
 ---
@@ -54,5 +63,5 @@ I'm an aspiring data analyst with a strong focus on financial and risk analytics
 - Visual storytelling
 - Business insight generation
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com) or contact me via [email@example.com].
+Feel free to connect with me on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/marktheanalyst103/)) or contact me via [marktheanalyst103@gmail.com].
 
