@@ -15,7 +15,8 @@ The dashboard consists of **3 interactive pages**:
 
 | Loan Approval Overview | Risk & Financial Behavior | Customer Segments & Repayment |
 |------------------------|---------------------------|-------------------------------|
-| ![Page 1](images/page1_overview.png) | ![Page 2](images/page2_risk.png) | ![Page 3](images/page3_segments.png) |
+| ![Page 1](page1_overview.png) | ![Page 2](page2_risk.png) | ![Page 3](page3_segments.png) |
+
 
 ---
 
